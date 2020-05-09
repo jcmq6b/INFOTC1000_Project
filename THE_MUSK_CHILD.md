@@ -2,4 +2,4 @@
 <h2> You may be thinking, it can't be **_that bad_** <h2>
 You decided!
 **X Æ A-12 Musk**
-![Tweet](muskkid.png "Grimezsz")
+![Tweet](https://github.com/jcmq6b/INFOTC1000_Project/blob/master/muskkid.png)
